@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.svg" alt="GenZPlayer Logo" width="100" height="auto">
   
-  # 🎬 GenZPlayer
+  # GenZPlayer
   
   **🚀 The Ultimate Video Player for Web** - Just drop any video and it plays! Works with **ALL formats** automatically.
   
