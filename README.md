@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" alt="GenZPlayer Logo" width="200" height="200">
+  <img src="logo.svg" alt="GenZPlayer Logo" width="100" height="auto">
   
   # 🎬 GenZPlayer
   
