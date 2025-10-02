@@ -78,7 +78,7 @@ These formats **require conversion** to MP4/WebM for web playback:
   <div id="player"></div>
   
   <!-- Include from CDN -->
-  <script src="https://cdn.jsdelivr.net/gh/GulshiDevs/genzplayer@1.0.0/genzplayer.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/genzplayer@1.0.0/dist/genzplayer.js"></script>
   
   <script>
     // Auto-detects format from URL!
